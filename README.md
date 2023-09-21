@@ -38,7 +38,3 @@ function start(client) {
   });
 }
 ```
-
-# Agradecimentos: 
-
-@MankBarBar
